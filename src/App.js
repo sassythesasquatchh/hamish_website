@@ -13,7 +13,7 @@ const buttonStyles = {
 };
 
 const patrickText =
-  'Every single day, many, many people think they can claim that their brother is the "best brother in the world. These people, while undoubtably noble in their efforts, are all wrong. ';
+  'Every single day, many, many people think they can claim that their brother is the "best brother in the world". These people, while undoubtably noble in their efforts, are all wrong.';
 
 function App() {
   function handleClick() {
