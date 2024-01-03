@@ -1,5 +1,4 @@
 import "./App.css";
-import styled from "styled-components";
 import coolymccoolface from "./patrick.jpg";
 
 const buttonStyles = {
